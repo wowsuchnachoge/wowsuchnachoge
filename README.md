@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @wowsuchnachoge
+# 👋 Hi, I’m Ignacio Hernández (@wowsuchnachoge)
 - 👀 I’m interested in ... a lot of things, but I like to create and develop new ideas 😄
 - 🌱 I’m currently learning how to develop flutter apps, and improving at python
+- ⚙️ DevOps
 - 📫 How to reach me:
-  - ignherna@cisco.com
   - ignacio.hernandez.monroy@gmail.com
 
 <!---
