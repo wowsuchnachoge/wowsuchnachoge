@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ignacio Hernández (@wowsuchnachoge)
-- 👀 I’m interested in ... a lot of things, but I like to create and develop new ideas 😄
-- 🌱 I’m currently learning how to develop flutter apps, and improving at python
-- ⚙️ DevOps
+- 👀 Interested in ... mobile app development, web development, and python scripting 👾
+- 🌱 I’m currently getting hands-on practice on writing and debugging SwiftUI and Kotlin/Java code. Getting a bit more knowledge of Flutter app development, and improving at python
+- ⚙️ DevOps engineering stuff at Amazon Music
 - 📫 How to reach me:
   - ignacio.hernandez.monroy@gmail.com
 
