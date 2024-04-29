@@ -8,7 +8,7 @@
 - 👾 Flutter and native app development
 - ⚙️ IoT automation projects 
 ### Contact:
-  - 📨 [Mail](mailto:ignacio.hernandez.monroy@gmail.com)
+  - 📨 [Mail](mailto:ignacio.hernandez.monroy@gmail.com?subject=[GitHub]%20README%20contact)
   - 🐦 [Twitter](https://twitter.com/wowsuchnachoge)
 
 <!---
