@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ignacio "Nacho" Hernández (@wowsuchnachoge)
+# 👋 Hi, I’m Nacho Hernández
 ### Professional experience
 - 🧑🏻‍💻 DevOps engineering and mobile app development at Amazon Music
 - 💻 iOS/Android app development
