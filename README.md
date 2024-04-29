@@ -1,9 +1,15 @@
 # 👋 Hi, I’m Ignacio "Nacho" Hernández (@wowsuchnachoge)
-- 👀 Interested in ... mobile app development, web development, and python scripting 👾
-- 🌱 I’m currently getting hands-on practice on writing and debugging SwiftUI and Kotlin/Java code. Getting a bit more knowledge of Flutter app development, and improving at python
-- ⚙️ DevOps engineering stuff at Amazon Music
-- 📫 How to reach me:
-  - ignacio.hernandez.monroy@gmail.com
+### Professional experience
+- 🧑🏻‍💻 DevOps engineering and mobile app development at Amazon Music
+- 💻 iOS/Android app development
+- 🐍 Python development and automation
+- ⚛️ React web app development
+### Side projects
+- 👾 Flutter and native app development
+- ⚙️ IoT automation projects 
+### Contact:
+  - 📨 [Mail](ignacio.hernandez.monroy@gmail.com)
+  - 🐦 [Twitter](https://twitter.com/wowsuchnachoge)
 
 <!---
 wowsuchnachoge/wowsuchnachoge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
